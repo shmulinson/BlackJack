@@ -1,5 +1,6 @@
-BlackJack Project
+# Blackjack Simulation 
 
-A simulate for a BlackJack game
+A command-line Blackjack game simulation.
 
-This is my first C++ project, השתמשתי בפרוייקט הזה כדי ללמוד C++ ו OOP
+## About The Project
+This is my first C++ project. I developed this game primarily to learn the fundamentals of C++ and to get hands-on practice with Object-Oriented Programming (OOP) principles.

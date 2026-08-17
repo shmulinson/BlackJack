@@ -7,6 +7,7 @@
 #include <ctime>
 
 using namespace std;
+
 string suit[] = {
     "Hearts", "Spades", "Diamods", "Clubs"
 };
