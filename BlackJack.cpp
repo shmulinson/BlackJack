@@ -157,7 +157,7 @@ class Wallet {
 
 int main()
 {
-    //creatin a wallet
+    //creating a wallet
     Wallet playerWallet(2000);   
     bool play = true;
     while (play) {
