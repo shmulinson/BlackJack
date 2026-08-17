@@ -1,2 +1,8 @@
 /BlackJack.vcxproj.user
+/BlackJack.vcxproj.filters
+*.exe
+*.pdb
+*.ilk
+*.obj
+/.vscode
 /x64
